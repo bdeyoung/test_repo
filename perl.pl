@@ -1,8 +1,5 @@
 #!/usr/bin/perl -w
-#use strcit;
-#strict didn't work on my mac, because I have installed any modules
-#useless line
-
+use strict;
 
 my $NAME = "Brandon";
 
