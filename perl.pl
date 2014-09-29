@@ -7,8 +7,8 @@ print_sub($NAME);
 
 ###SUBS
 sub print_sub {
-my $i =$_;
-while ($i < 10) {
+my $i =($_);
+while ($i < 15) {
     $i++;
     print "$NAME is an AWESOME CODER!!!!!\n";
 
